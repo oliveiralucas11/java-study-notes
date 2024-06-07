@@ -13,6 +13,13 @@ public class Aula02TiposPrimitivosExercicio {
 
     public static void main(String[] args) {
 
+        String nomePessoa1 = "Lucas Oliveira";
+        String endereco= "Rua poconé";
+        int salario = 800;
+        String dataDoDia = "19/08/2059";
+
+
+        System.out.println("Eu " + nomePessoa1 + ", morando no endereco " + endereco + ", confirmo que recebi o salario de R$" + salario + " , na data de " + dataDoDia);
 
 
 
