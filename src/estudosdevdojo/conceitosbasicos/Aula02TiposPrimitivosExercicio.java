@@ -17,10 +17,11 @@ public class Aula02TiposPrimitivosExercicio {
         String endereco= "Rua poconé";
         int salario = 800;
         String dataDoDia = "19/08/2059";
+        String relatorio = "Eu " + nomePessoa1 + ", morando no endereco " + endereco + ", confirmo que recebi o salario de R$" + salario + " , na data de " + dataDoDia;
 
 
         System.out.println("Eu " + nomePessoa1 + ", morando no endereco " + endereco + ", confirmo que recebi o salario de R$" + salario + " , na data de " + dataDoDia);
-
+        System.out.println(relatorio);
 
 
     }
