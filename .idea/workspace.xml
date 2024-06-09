@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b502d8-2ca4-4215-b767-ee12bf014e6b" name="Changes" comment="Operadores unarios">
+    <list default="true" id="84b502d8-2ca4-4215-b767-ee12bf014e6b" name="Changes" comment="mais formas de condicionais">
+      <change afterPath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula04EstruturaCondicional02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Aula01TiposPrimitivos.executor": "Run",
-    "Application.Aula04EstruturaCondicional.executor": "Run",
+    "Application.Aula04EstruturaCondicional.executor": "Debug",
+    "Application.Aula04EstruturaCondicional02.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.VariaveisConstantes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -162,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717901816638</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Condicionais">
+      <option name="closed" value="true" />
+      <created>1717902988318</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717902988318</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +195,8 @@
     <MESSAGE value="refatorando os codigos de estudo" />
     <MESSAGE value="operadores de atribuicao" />
     <MESSAGE value="Operadores unarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores unarios" />
+    <MESSAGE value="Condicionais" />
+    <MESSAGE value="mais formas de condicionais" />
+    <option name="LAST_COMMIT_MESSAGE" value="mais formas de condicionais" />
   </component>
 </project>
