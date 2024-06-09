@@ -68,6 +68,12 @@ public class Aula03Operadores {
 
         System.out.println(isGonnaBuyPs5);
 
+        //Operadores de Atribuicao
+        // =, +=, -=, *=, /=, %=
+        double bonus = 1800;
+        bonus = 2000;
+        System.out.println(bonus);
+
 
 
     }
