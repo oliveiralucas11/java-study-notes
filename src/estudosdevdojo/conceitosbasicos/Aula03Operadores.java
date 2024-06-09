@@ -71,8 +71,24 @@ public class Aula03Operadores {
         //Operadores de Atribuicao
         // =, +=, -=, *=, /=, %=
         double bonus = 1800;
-        bonus = 2000;
+        bonus += 2000; // Uma forma de adicionar a mais um valor na variavel sem precisar escrever um codigo grande
+        bonus -= 1000;
+        bonus *= 2;
+        bonus /= 2;
+        bonus %= 2;
         System.out.println(bonus);
+
+        //Operadores Unarios
+        // ++ --
+        int contador = 0;
+        contador += 1; // contador recebe contador + 1
+        contador++; // outra forma de fazer sem sinal de igual, funciona somente de 1 em 1
+        contador --;
+
+        ++contador; // Quando colocamos o sinal antes, dizemos ao compilador para executar primeiro a operacao
+        --contador;
+        System.out.println(contador);
+
 
 
 
