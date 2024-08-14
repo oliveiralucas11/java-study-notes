@@ -35,6 +35,7 @@ public class Aula01TiposPrimitivos {
         System.out.println("Oi meu nome é " + nomePessoa);
         System.out.println(age);
         System.out.println("A idade é: " + fatherAge + " anos");
+        System.out.println(numeroGrande);
 
 
 
