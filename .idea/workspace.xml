@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b502d8-2ca4-4215-b767-ee12bf014e6b" name="Changes" comment="mais formas de condicionais">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_06_2024_00_20_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_06_2024_00_20__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula01TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula01TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula02TiposPrimitivosExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula02TiposPrimitivosExercicio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +32,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="c151b32d-29e6-4322-aa78-85c2b0afbd51" />
-        <option name="url" value="https://github.com/oliveiralucas11/java-oop-study.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://oliveiralucas11@github.com/oliveiralucas11/java-study-notes.git",
+    "accountId": "934ee1f8-2291-4657-a908-80949dabfd1f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -63,11 +58,12 @@
     "Application.VariaveisConstantes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas/Documents/Estudo/java-oop-study",
+    "last_opened_file_path": "/Users/lucasoliveirabueno/Documents/ESTUDO/java-study-notes",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
