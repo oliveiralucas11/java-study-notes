@@ -54,7 +54,7 @@ public class Aula03Operadores {
         float salarioMaior = 3500F;
 
         boolean isDentroDaLeiMaiorQueTrinta = idadeMaior > 30 && salarioMaior >= 4612; // Os dois precisam ser verdadeiros caso ao contrario ira retornar false
-        boolean isDentroDaLeiMenorQueTrinta = idadeMaior < 30 && salarioMaior <= 4612; // Nesse caso retornara true pois ambas condições estão corretas.
+        boolean isDentroDaLeiMenorQueTrinta = idadeMaior < 30 && salarioMaior <= 3381; // Nesse caso retornara true pois ambas condições estão corretas.
 
         System.out.println(isDentroDaLeiMaiorQueTrinta);
         System.out.println(isDentroDaLeiMenorQueTrinta);
@@ -66,7 +66,7 @@ public class Aula03Operadores {
         // Usando || qualquer dos valores que estiver correto na comparação ele ira retornar true nao dependendo do outro.
         boolean isGonnaBuyPs5 = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
 
-        System.out.println(isGonnaBuyPs5);
+        System.out.println(isGonnaBuyPs5); // Retornou verdadeiro, pois uma das afirmações é verdadeira.
 
         //Operadores de Atribuicao
         // =, +=, -=, *=, /=, %=

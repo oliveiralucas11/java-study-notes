@@ -13,16 +13,12 @@ public class Aula02TiposPrimitivosExercicio {
 
     public static void main(String[] args) {
 
-        String nomePessoa1 = "Lucas Oliveira";
-        String endereco = "Rua poconé";
-        int salario = 800;
-        String dataDoDia = "19/08/2059";
-        String relatorio = "Eu " + nomePessoa1 + ", morando no endereco " + endereco + ", confirmo que recebi o salario de R$" + salario + " , na data de " + dataDoDia;
+        String myName = "Lucas Oliveira";
+        String myAddress = "Cuiabá";
+        double salario11 = 2500.00;
+        String dateTime = "03/04/2025";
 
-
-        System.out.println("Eu " + nomePessoa1 + ", morando no endereco " + endereco + ", confirmo que recebi o salario de R$" + salario + " , na data de " + dataDoDia);
-        System.out.println(relatorio);
-
+        System.out.println("Eu " + myName + " morando no endereço " + myAddress + ", confirmo que recebi o salario de R$" + salario11 + ", na data de " + dateTime);
 
     }
 }
