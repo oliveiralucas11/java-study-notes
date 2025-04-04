@@ -8,6 +8,8 @@ public class Aula04EstruturaCondicional02 {
         // idade >= 15 && idade < 18 categoria juvenil
         // idade >= 18 categoria adulto
 
+        // Variaveis locais precisam ser inicializadas, se não havera erro de compilação, a não ser que seja inicializada antes com um valor vazio.
+
         int idade = 20;
         String categoria;
 
@@ -27,6 +29,21 @@ public class Aula04EstruturaCondicional02 {
             categoria = "Categoria Juvenil";
         }else {
             categoria = "Adulto";
+        }
+        System.out.println(categoria);
+        //--------------------------------------------------------------------------
+
+        if (idade >= 18) {
+            System.out.println("Parabéns você já é maior de idade!");
+        } else {
+            System.out.println("Infelizmente você ainda não atingiu a maioridade!");
+        }
+
+
+        if (idade >= 18) {
+            categoria = "Você já pode dirigir";
+        } else {
+            categoria = "Você ainda não tem idade para dirigir";
         }
         System.out.println(categoria);
 

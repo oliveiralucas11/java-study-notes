@@ -7,6 +7,7 @@ public class Aula04EstruturaCondicional {
         // If obrigatoriamente deve-se fazer uma expressao que retorne apenas true ou false ex:
         //if (idade){ // Aqui esta errado pois deve sempre ter um retorno booleano
         //}
+        // o if sempre fara uma comparação dentro dele e não uma atribuição
 
         int idade = 15;
         boolean isAutorizadoComprarBebida = idade >= 18;
