@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84b502d8-2ca4-4215-b767-ee12bf014e6b" name="Changes" comment="mais formas de condicionais">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula04EstruturaCondicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula04EstruturaCondicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula04EstruturaCondicional02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudosdevdojo/conceitosbasicos/Aula04EstruturaCondicional02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://oliveiralucas11@github.com/oliveiralucas11/java-study-notes.git&quot;,
-    &quot;accountId&quot;: &quot;934ee1f8-2291-4657-a908-80949dabfd1f&quot;
+    &quot;accountId&quot;: &quot;8958d650-0d69-47e6-9fd9-88e05b37629f&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -54,9 +52,10 @@
   "keyToString": {
     "Application.Aula01TiposPrimitivos.executor": "Run",
     "Application.Aula02TiposPrimitivosExercicio.executor": "Run",
-    "Application.Aula04EstruturaCondicional.executor": "Debug",
+    "Application.Aula04EstruturaCondicional.executor": "Run",
     "Application.Aula04EstruturaCondicional02.executor": "Debug",
     "Application.Aula04EstruturaCondicional03.executor": "Run",
+    "Application.Aula04EstruturaCondicionalExercicio.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.VariaveisConstantes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
